@@ -1,4 +1,4 @@
-package se.iths.jmsdemo220425.config;
+package se.iths.storemanagementsystem.jms.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;

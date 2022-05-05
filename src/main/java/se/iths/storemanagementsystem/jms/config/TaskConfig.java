@@ -1,4 +1,4 @@
-package se.iths.jmsdemo220425.config;
+package se.iths.storemanagementsystem.jms.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

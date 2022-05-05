@@ -1,4 +1,4 @@
-package se.iths.jmsdemo220425;
+package se.iths.storemanagementsystem.jms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
